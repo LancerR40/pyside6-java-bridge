@@ -21,7 +21,9 @@ pip install -r requirements.txt
 * Inside jdk folder paste all the elements found in previously downloaded official jdk folder
 
 ## Initialize project
-execute py app.py
+```
+py app.py
+```
 
 ## Note
 if you had an error, please verify the third step
