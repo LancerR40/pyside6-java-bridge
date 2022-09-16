@@ -3,7 +3,7 @@ Proof of concept about how to call Java classes and methods from Python on Windo
 
 ## Clone project
 ```
-https://github.com/LancerR40/pyside6-java-bridge.git
+git clone https://github.com/LancerR40/pyside6-java-bridge.git
 ```
 
 ## Requirements
