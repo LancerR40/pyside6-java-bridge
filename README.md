@@ -1,5 +1,5 @@
 # pyside6-java-bridge
-Proof of concept about how to call Java classes and methods from Python on Windows OS
+Proof of concept about how to call Java classes and methods from Python on Windows OS using pyjnius library
 
 ## Clone project
 ```
